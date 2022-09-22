@@ -1,0 +1,8 @@
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.2" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd">
+<persistence-unit name="it75_2019">
+<class>rva.model.Igrac</class>
+<class>rva.model.Liga</class>
+<class>rva.model.Nacionalnost</class>
+<class>rva.model.Tim</class>
+</persistence-unit>
+</persistence>
